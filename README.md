@@ -19,8 +19,8 @@ npx tailwind init tailwind.js --full
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; plugins: [  
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  tailwindcss('./tailwind.js'),  
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  require('autoprefixer')  
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;         ]  
-    }  
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;         ]  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;     }  
   
 **create assets folder and main.css & tailwind.css in src folder**  
 within tailwind.css add these imports  
